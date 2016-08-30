@@ -1,0 +1,1 @@
+Script para automatizar o backup de arquivos .txt
